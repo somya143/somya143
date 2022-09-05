@@ -70,8 +70,8 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 
- <img align="center" src="https://raw.githubusercontent.com/somya143/somya143/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only" />
- 
+ <img align="center" src="https://raw.githubusercontent.com/AkshatRastogi-1nC0re/AkshatRastogi-1nC0re/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only" />
+
  </div>
 
 
