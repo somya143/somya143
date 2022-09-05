@@ -60,12 +60,12 @@ Here are some ideas to get you started:
   
   
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RiteshAravindra&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=somya143&show_icons=true)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RiteshAravindra)
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RiteshAravindra)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=somya143)
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=somya143)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshAravindra&layout=compact&theme=vue&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somya143&layout=compact&theme=vue&hide_border=true" />
 
 
  </div>
