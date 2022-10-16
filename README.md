@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **HTML , CSS , Vanilla JavaScript , React , ChakraUI , MongoDB , Express.js , Node.js**
 
-- 📫 How to reach me **maaheersj@gmail.com**
+- 📫 How to reach me **maaheersj@gmail.com , +91-7004206146**
 
 
 
