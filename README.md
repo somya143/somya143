@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somya143&label=Profile%20views&color=0e75b6&style=flat" alt="somya143" /> </p>
 
-- 🌱 I’m currently learning **Vanilla JavaScript , React , MongoDB , Express.js , Node.js**
 
-- 💬 Ask me about **React , MongoDB , Express.js , Node.js**
+- 💬 Ask me about **HTML , CSS , Vanilla JavaScript , React , MongoDB , Express.js , Node.js**
 
 - 📫 How to reach me **maaheersj@gmail.com**
 
@@ -33,7 +32,7 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="center" text-decoration="none"><a href="https://github.com/somya143/chemical-rake-3857" target="_blank" rel="noopener noreferrer" >
+<h3 align="center" text-decoration="none"><a href="https://somya143.github.io/" target="_blank" rel="noopener noreferrer" >
     Visit my website
 </a></h3>
 
