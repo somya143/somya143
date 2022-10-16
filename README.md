@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somya143&label=Profile%20views&color=0e75b6&style=flat" alt="somya143" /> </p>
 
 
-- 💬 Ask me about **HTML , CSS , Vanilla JavaScript , React , MongoDB , Express.js , Node.js**
+- 💬 Ask me about **HTML , CSS , Vanilla JavaScript , React , ChakraUI , MongoDB , Express.js , Node.js**
 
 - 📫 How to reach me **maaheersj@gmail.com**
 
