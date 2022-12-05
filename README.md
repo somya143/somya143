@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi , I'm Somya Ranjan Singh</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-<img width="1000px" height="400px" src="Images\abc.gif" />
+<img width="1000px" height="400px" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somya143&label=Profile%20views&color=0e75b6&style=flat" alt="somya143" /> </p>
