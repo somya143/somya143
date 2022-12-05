@@ -43,11 +43,11 @@ Here are some ideas to get you started:
 <div align="center">
 <h2 > Skills & Frameworks <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height =25px width = 25px> </h2>
 <a href= "https://github.com/somya143/chemical-rake-3857?tab=repositories&q=&type=&language=javascript&sort= "> <img width ='32px' src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHslb9ag0SKLSsn6ntYUQKRtTiXzcBIs7srA&usqp=CAU'> </a>
-<a href= "https://github.com/somya143/chemical-rake-3857?tab=repositories&q=&type=&language=bootstrap&sort= "> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<a href= "https://github.com/somya143/chemical-rake-3857?tab=repositories&q=&type=&language=html&sort= "> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= "https://github.com/somya143/chemical-rake-3857?tab=repositories&q=&type=&language=css&sort= "> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= "https://github.com/RiteshAravindra/Array-operations-in-java "> <img height="32px" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= "https://github.com/RiteshAravindra?tab=repositories&q=&type=&language=css&sort= "> <img height="35px" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+<a href= "https://github.com/somya143/Milaap.org "> <img width ='32px' src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3cyIZHI29BQtCRviTwXBydyXrNIayIv8WPw&usqp=CAU'> </a>
+<a href= "https://github.com/somya143/wardrobe.com "> <img width ='32px' src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScZX693CSJDgIo8vc99HgKKhS9EQQZ28_XBg&usqp=CAU'> </a>
+<a href= "https://github.com/somya143/leztalk.com "> <img width ='32px' src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPQJtBKM--nglGstrB403vkcRX575vK9AyxA&usqp=CAU'> </a>
+<a href= "https://github.com/somya143/youtube"> <img height="32px" src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9T-I6_I2v5u4YV-rd3yVQbnNbuVcdKbCKzA&usqp=CAU'> </a>
+<a href= "https://github.com/somya143/My-personal"> <img height="35px" src ='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPO9Xi0EUBtnzzBJTDf7Otn6v6OuV29smtQ&usqp=CAU'> </a>
 
   
   
