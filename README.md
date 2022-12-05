@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/somyaranjansingh96/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFbrWlWtkeWllQQCIRzRWpI8ORVDM28y68bA&usqp=CAU" alt="linkedin" height="30" width="40" /></a>
-<a href="https://codesandbox.com/somya143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="somya143" height="30" width="40" /></a>
+<a href="https://codesandbox.com/somya143" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlM5NZG6pqJpgGCEeddzkvVXqeJNbIZrV-Mg&usqp=CAU" alt="code sand box" height="30" width="40" /></a>
 </p>
 
  </div>
